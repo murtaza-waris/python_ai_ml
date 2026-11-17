@@ -1,6 +1,4 @@
-# python_ai_ml
-Programming Scripts of Python, Object Oriented Programming, NumPy, Pandas, Scikit-learn, TensorFlow
-# Python, Data Science & Machine Learning — Teaching Portfolio
+# Python, Data Science & Machine Learning
 
 **Murtaza Waris**  
 **Core Stack:** Python • OOP • NumPy • Pandas • Matplotlib • Scikit-Learn • Deep Learning

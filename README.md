@@ -28,5 +28,5 @@
   
 ---
 
-* **GitHub:** https://github.com/murtaza-aiml/python_ai_ml/
+* **GitHub:** https://github.com/murtaza-waris/python_ai_ml/
 * **Contact:** +923047715511

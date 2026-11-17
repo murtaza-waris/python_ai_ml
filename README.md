@@ -32,6 +32,3 @@ Programming Scripts of Python, Object Oriented Programming, NumPy, Pandas, Sciki
 
 * **GitHub:** https://github.com/murtaza-aiml/python_ai_ml/
 * **Contact:** +923047715511
-* **GitHub:** [://github.com](https://://github.com)
-* **Contact:** [Add Your Phone/WhatsApp Number Here]
-*

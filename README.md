@@ -1,9 +1,8 @@
-# Python, Data Science & Machine Learning
+# Python, Data Science, Machine Learning & Deep Learning — Teaching Portfolio
 
-**Murtaza Waris**  
-**Core Stack:** Python • OOP • NumPy • Pandas • Matplotlib • Scikit-Learn • Deep Learning
+**Murtaza Waris**
+**Core Stack:** Python • OOP • NumPy • Pandas • Matplotlib • Scikit-Learn • Deep Learning (ANN & CNN).
 
----
 
 ### Python & Object-Oriented Programming (OOP)
 *Foundational programming logic, functional constructs, and clean OOP architecture.*
@@ -25,8 +24,12 @@
 * [Linear Regression](./linear_regression.ipynb) — Predictive modeling for continuous values.
 * [Logistic Regression](./Logistic_Regression_Algorithm.ipynb) — Binary classification modeling and probability estimation.
 * [Decision Tree Algorithm](./Decision_Tree_algorithm.ipynb) — Rule-based classification and tree splitting logic.
-  
----
 
-* **GitHub:** https://github.com/murtaza-waris/python_ai_ml/
-* **Contact:** +923047715511
+### Deep Learning & Neural Networks
+*Building and training multi-layer neural networks and computer vision models.*
+* [Artificial Neural Network (ANN) on MNIST](./ANN_model_on_MNIST_dataset.ipynb) — Multi-layer perceptron architecture for handwritten digit classification.
+* [Convolutional Neural Network (CNN) on Kaggle Dataset](./CNNs_model_on_Kaggle_dataset.ipynb) — Deep learning computer vision pipeline using convolutional and pooling layers.
+
+---
+* **GitHub Portfolio:** https://github.com/murtaza-waris/python_ai_ml/
+* **Contact:** +923117715511
